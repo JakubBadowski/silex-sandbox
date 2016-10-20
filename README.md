@@ -2,6 +2,6 @@
 Polska wersja opracowania "The Silex Book"
 
 ## Spis treści
-[Wprowadzenie](introduction.md)
-[Szybki start](usage.md)
-[Middleware](middleware.md)
+1. [Wprowadzenie](introduction.md)
+2. [Szybki start](usage.md)
+3. [Middleware](middleware.md)
